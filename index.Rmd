@@ -1,0 +1,18 @@
+---
+title: "Ross Community Survival Kit for Students"
+author: "Created by: Matthew Weintraub, Jie Wang, Pooja Modawel, Jolene Chung, Summer Qu"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Welcome to our website!
+
+The MBAn program is an intensive 10-month experience, packed with a wealth of information within a short timeframe. This abundance of material can create challenges for students as they strive to balance their academic goals with their mental health. In response to these common struggles, we present the "Ross Community Survival Kit" -- a concise and practical reference guide. This kit empowers students to use AI generative models to effectively manage daily tasks, achieve personal goals, and strike a harmonious work-life balance. By incorporating stress management techniques, students can remain on track academically while ensuring their overall well-being.
+
+In this project, we created chapters that we feel represent the main challenges of students. We introduce the authors of the project as well as the process we went through to create this guide. The chapters cover information about Career Planning, Homework Reference Guide, and Work-life Balance, to provide students with fun and successful experience at the Ross School of Business.
